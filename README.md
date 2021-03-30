@@ -24,12 +24,12 @@
 
 ### Pokemon Battle
 
+![image](https://user-images.githubusercontent.com/77476144/113017616-997d4380-91ba-11eb-89d5-871c0a552f9e.png)
+
 | Type 1 | Type 2 |
 | :---: | :---: |
 | Normal | - |
 | ![image](https://user-images.githubusercontent.com/77476144/113014396-81f08b80-91b7-11eb-93b4-840b954b5248.png) | - |
-
-![](https://user-images.githubusercontent.com/77476144/113017314-4a371300-91ba-11eb-83c9-b69b0de1317a.png)
 
 ### Pokemon Card
 
