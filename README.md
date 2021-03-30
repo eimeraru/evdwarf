@@ -36,6 +36,11 @@
 
 ### Pokemon Dungeon
 
+| Type 1 | Type 2 |
+| :---: | :---: |
+| ノーマル | - |
+| ![image](https://user-images.githubusercontent.com/77476144/113014396-81f08b80-91b7-11eb-93b4-840b954b5248.png) | - |
+
 ## Eevee (Gigantamax)
 
 ![](https://img.pokemondb.net/sprites/home/normal/eevee-gigantamax.png)
