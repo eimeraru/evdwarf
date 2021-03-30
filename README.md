@@ -28,6 +28,8 @@
 
 ### Pokemon Card
 
+[![](https://user-images.githubusercontent.com/77476144/113013864-0d1d5180-91b7-11eb-8773-bf14ac1e4a74.png)](https://www.pokemon-card.com/card-search/index.php?regulation_detail=XY&pokemon=%E3%82%A4%E3%83%BC%E3%83%96%E3%82%A4)
+
 ### Pokemon Dungeon
 
 ## Eevee (Gigantamax)
