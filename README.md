@@ -32,7 +32,7 @@
 ### Pokemon Card
 
 
-[![](https://user-images.githubusercontent.com/77476144/113015187-40141500-91b8-11eb-8b29-165c9e43e15e.png)](https://www.pokemon-card.com/card-search/index.php?regulation_detail=XY&pokemon=%E3%82%A4%E3%83%BC%E3%83%96%E3%82%A4)
+[![](https://user-images.githubusercontent.com/77476144/113015187-40141500-91b8-11eb-8b29-165c9e43e15e.png)](https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/?cardName=Eevee&cardText=&evolvesFrom=&simpleSubmit=&format=unlimited&hitPointsMin=0&hitPointsMax=340&retreatCostMin=0&retreatCostMax=5&totalAttackCostMin=0&totalAttackCostMax=5&particularArtist=)
 
 ### Pokemon Dungeon
 
