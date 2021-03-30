@@ -6,12 +6,7 @@
 
 ## Eevee
 
-![](https://via.placeholder.com/16/c7e7f6/FFFFFF/?text=%20) `#c7e7f6`
-![](https://via.placeholder.com/16/abdbf1/FFFFFF/?text=%20) `#abdbf1`
-![](https://via.placeholder.com/16/6ec1e9/FFFFFF/?text=%20) `#6ec1e9`
-![](https://via.placeholder.com/16/47b1e1/FFFFFF/?text=%20) `#47b1e1`
-![](https://via.placeholder.com/16/0093d6/FFFFFF/?text=%20) `#0093d6`
-![](https://via.placeholder.com/16/221816/FFFFFF/?text=%20) `#221816`
+- ![#332011](https://via.placeholder.com/15/332011/000000?text=+) `#332011`
 
 ![](https://img.pokemondb.net/sprites/home/normal/eevee-f.png)
 
