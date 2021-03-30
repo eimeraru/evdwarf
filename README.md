@@ -1,6 +1,6 @@
 ## PROF
 
-![](https://img.pokemondb.net/sprites/home/normal/machop.png)
+![image](https://user-images.githubusercontent.com/77476144/113009141-a7c76180-91b2-11eb-9573-bc5a53fc978d.png)
 
 ## MY FAVE
 
