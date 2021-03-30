@@ -26,7 +26,7 @@
 
 | Type 1 | Type 2 |
 | :---: | :---: |
-| ノーマル | - |
+| Normal | - |
 | ![image](https://user-images.githubusercontent.com/77476144/113014396-81f08b80-91b7-11eb-93b4-840b954b5248.png) | - |
 
 ### Pokemon Card
@@ -35,9 +35,11 @@
 
 ### Pokemon Dungeon
 
+![](https://user-images.githubusercontent.com/77476144/113016304-52428300-91b9-11eb-8763-03ba3d8b7604.png)
+
 | Type 1 | Type 2 |
 | :---: | :---: |
-| ノーマル | - |
+| Normal | - |
 | ![image](https://user-images.githubusercontent.com/77476144/113014396-81f08b80-91b7-11eb-93b4-840b954b5248.png) | - |
 
 ## Eevee (Gigantamax)
