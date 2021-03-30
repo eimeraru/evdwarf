@@ -6,6 +6,13 @@
 
 ## Eevee
 
+![](https://via.placeholder.com/16/c7e7f6/FFFFFF/?text=%20) `#c7e7f6`
+![](https://via.placeholder.com/16/abdbf1/FFFFFF/?text=%20) `#abdbf1`
+![](https://via.placeholder.com/16/6ec1e9/FFFFFF/?text=%20) `#6ec1e9`
+![](https://via.placeholder.com/16/47b1e1/FFFFFF/?text=%20) `#47b1e1`
+![](https://via.placeholder.com/16/0093d6/FFFFFF/?text=%20) `#0093d6`
+![](https://via.placeholder.com/16/221816/FFFFFF/?text=%20) `#221816`
+
 ![](https://img.pokemondb.net/sprites/home/normal/eevee-f.png)
 
 ![image](https://user-images.githubusercontent.com/77476144/113011742-0d1c5200-91b5-11eb-80f1-c159e1e17600.png)
