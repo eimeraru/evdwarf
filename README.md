@@ -4,9 +4,10 @@
 
 ## MY FAVE
 
-| name | image |
+### Eevee
+
+![](https://img.pokemondb.net/sprites/home/normal/eevee-f.png)
+
+| Height | Weight |
 | --- | --- |
-| Eevee | ![](https://img.pokemondb.net/sprites/sword-shield/normal/eevee.png) |
-| Vaporeon | ![](https://img.pokemondb.net/sprites/sword-shield/normal/vaporeon.png) |
-| Jolteon | ![](https://img.pokemondb.net/sprites/sword-shield/normal/jolteon.png) |
-| Flareon | ![](https://img.pokemondb.net/sprites/sword-shield/normal/flareon.png) |
+| 0.3m | 6.5kg |
