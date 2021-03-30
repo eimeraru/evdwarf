@@ -15,3 +15,11 @@
 | Pokedex | Category | 
 | --- | --- |
 | 133 | Evolution |
+
+### Eevee (Gigantamax)
+
+![](https://img.pokemondb.net/sprites/home/normal/eevee-gigantamax.png)
+
+| Pokedex | Category | 
+| --- | --- |
+| 133-gigantamax | Evolution |
