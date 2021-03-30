@@ -10,4 +10,8 @@
 
 | Height | Weight |
 | --- | --- |
-| 0.3m | 6.5kg |
+| 1' 00" | 14.3 lbs |
+
+| Pokedex | Category | 
+| --- | --- |
+| 133 | Evolution |
