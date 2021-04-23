@@ -2,6 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/77476144/115138264-fd7e8380-a065-11eb-9e99-d8fa034cb572.png)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evdwarf&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 ## IMPLEMENTED
 
 ### PTCG
