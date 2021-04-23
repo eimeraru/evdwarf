@@ -16,4 +16,4 @@
 
 **App**
 
-- [ptcg-solo-emu-wasm](https://github.com/evdwarf/ptcg-solo-emu-wasm)*[WIP]*
+- [ptcg-solo-emu-wasm](https://github.com/evdwarf/ptcg-solo-emu-wasm) *[WIP]*
