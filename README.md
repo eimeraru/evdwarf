@@ -17,3 +17,19 @@
 **App**
 
 - [ptcg-solo-emu-wasm](https://github.com/evdwarf/ptcg-solo-emu-wasm) *[WIP]*
+
+## FAV
+
+### Eevee
+
+![](https://img.pokemondb.net/sprites/home/normal/eevee-f.png)
+
+| Height | Weight |
+| --- | --- |
+| 1' 00" | 14.3 lbs |
+
+| Pokedex | Category | 
+| --- | --- |
+| 133 | Evolution |
+
+[![image](https://user-images.githubusercontent.com/77476144/113013398-a39d4300-91b6-11eb-9648-c45a0161d525.png)](https://www.schemecolor.com/eevee-pokemon-colors.php)
