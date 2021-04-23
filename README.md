@@ -56,8 +56,6 @@
 | --- | --- |
 | 133-gigantamax | Evolution |
 
-[![image](https://user-images.githubusercontent.com/77476144/113013398-a39d4300-91b6-11eb-9648-c45a0161d525.png)](https://www.schemecolor.com/eevee-pokemon-colors.php)
-
 ![](https://via.placeholder.com/16/332011/FFFFFF/?text=%20) `#332011`
 ![](https://via.placeholder.com/16/633C15/FFFFFF/?text=%20) `#633C15`
 ![](https://via.placeholder.com/16/C5915D/FFFFFF/?text=%20) `#C5915D`
