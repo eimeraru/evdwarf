@@ -13,3 +13,7 @@
 - [ptcg-card](https://github.com/evdwarf/ptcg-card) - All pokemon card format.
 - [ptcg-special-conditions](https://github.com/evdwarf/ptcg-special-conditions) - A pokemon special conditions.
 - [ptcg-player-board](https://github.com/evdwarf/ptcg-player-board) - A pokemon card player board.
+
+**App**
+
+- *[WIP]*[ptcg-solo-emu-wasm](https://github.com/evdwarf/ptcg-solo-emu-wasm)
