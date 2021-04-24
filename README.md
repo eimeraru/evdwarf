@@ -55,8 +55,7 @@ Speed<br>
 | Type 1 | Type 2 |
 | :---: | :---: |
 | Normal | - |
-| ![image](https://user-images.githubusercontent.com/77476144/115944583-94798e80-a4f1-11eb-8137-19667ae35e96.png) | - |
-
+| ![image](https://user-images.githubusercontent.com/77476144/115944597-ae1ad600-a4f1-11eb-8c9c-f1f577aa51a2.png) | - |
 
 **Card**
 
