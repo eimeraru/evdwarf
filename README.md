@@ -39,18 +39,14 @@
 
 **Battle**
 
-HP<br>
-![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20) 55<br>
-Atk<br>
-![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20) 55<br>
-Def<br>
-![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20) 50<br>
-Sp. Atk<br>
-![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20) 45<br>
-Sp. Def<br>
-![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20) 65<br>
-Speed<br>
-![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20) 55<br>
+| Bsse Stat | Bar Graph | Point |
+| :--: | :-- | :---: |
+| HP | ![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20) | 55 |
+| Atk | ![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20) | 55 |
+| Def | ![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20) | 50 |
+| Sp. Atk | ![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20) | 45 |
+| Sp. Def | ![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20) | 65 |
+| Speed | ![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20) | 55 |
 
 | Type 1 | Type 2 |
 | :---: | :---: |
