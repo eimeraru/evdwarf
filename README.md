@@ -39,8 +39,18 @@
 
 **Battle**
 
-Attack<br>
-![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)
+HP<br>
+![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20) 55<br>
+Atk<br>
+![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20) 55<br>
+Def<br>
+![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20) 50<br>
+Sp. Atk<br>
+![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20) 45<br>
+Sp. Def<br>
+![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20) 65<br>
+Speed<br>
+![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20)![](https://via.placeholder.com/16/00e87b/FFFFFF/?text=%20) 55<br>
 
 ![image](https://user-images.githubusercontent.com/77476144/113017616-997d4380-91ba-11eb-89d5-871c0a552f9e.png)
 
