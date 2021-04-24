@@ -1,8 +1,6 @@
 # PROF
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evdwarf&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
-[![](https://raw.githubusercontent.com/evdwarf/evdwarf/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/evdwarf/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/evdwarf/evdwarf/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/evdwarf/github-profile-summary-cards)
 
 ## IMPLEMENTED
 
