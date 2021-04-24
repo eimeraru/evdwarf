@@ -39,6 +39,9 @@
 
 **Battle**
 
+Attack<br>
+![](https://via.placeholder.com/16/332011/FFFFFF/?text=%20)
+
 ![image](https://user-images.githubusercontent.com/77476144/113017616-997d4380-91ba-11eb-89d5-871c0a552f9e.png)
 
 | Type 1 | Type 2 |
