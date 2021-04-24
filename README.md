@@ -55,7 +55,7 @@ Speed<br>
 | Type 1 | Type 2 |
 | :---: | :---: |
 | Normal | - |
-| ![image](https://user-images.githubusercontent.com/77476144/113014396-81f08b80-91b7-11eb-93b4-840b954b5248.png) | - |
+| ![image](https://raw.githubusercontent.com/msikma/pokesprite/master/misc/types/gen8/normal.png) | - |
 
 **Card**
 
