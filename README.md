@@ -20,6 +20,12 @@
 
 - [ptcg-solo-emu-wasm](https://github.com/evdwarf/ptcg-solo-emu-wasm) *[WIP]*
 
+### Tokamak
+
+**Module**
+
+- [tokamak-html-function-builder](https://github.com/evdwarf/tokamak-html-function-builder)
+
 ## FAV
 
 ### Eevee
