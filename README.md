@@ -24,7 +24,7 @@
 
 **Module**
 
-- [tokamak-html-function-builder](https://github.com/evdwarf/tokamak-html-function-builder)
+- [tokamak-html-function-builder](https://github.com/evdwarf/tokamak-html-function-builder) A Simplify Tokamak HTML function builder
 
 ## FAV
 
