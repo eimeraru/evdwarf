@@ -22,8 +22,6 @@
 
 ### Tokamak
 
-**Module**
-
 - [tokamak-html-function-builder](https://github.com/evdwarf/tokamak-html-function-builder) A Simplify Tokamak HTML function builder
 
 ### HTML
