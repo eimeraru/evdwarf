@@ -26,6 +26,10 @@
 
 - [tokamak-html-function-builder](https://github.com/evdwarf/tokamak-html-function-builder) A Simplify Tokamak HTML function builder
 
+### HTML
+
+- [closswift](https://github.com/evdwarf/closswift) A simple Swift utility for conditionally joining classNames together
+
 ## FAV
 
 ### Eevee
