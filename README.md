@@ -73,8 +73,10 @@
 | --- | --- |
 | 133-gigantamax | Evolution |
 
-![](https://via.placeholder.com/16/332011/FFFFFF/?text=%20) `#332011`
-![](https://via.placeholder.com/16/633C15/FFFFFF/?text=%20) `#633C15`
-![](https://via.placeholder.com/16/C5915D/FFFFFF/?text=%20) `#C5915D`
-![](https://via.placeholder.com/16/EFDBB6/FFFFFF/?text=%20) `#EFDBB6`
-![](https://via.placeholder.com/16/FCF3E4/FFFFFF/?text=%20) `#FCF3E4`
+**Color Codes**
+
+- ![](https://via.placeholder.com/16/332011/FFFFFF/?text=%20) `#332011`
+- ![](https://via.placeholder.com/16/633C15/FFFFFF/?text=%20) `#633C15`
+- ![](https://via.placeholder.com/16/C5915D/FFFFFF/?text=%20) `#C5915D`
+- ![](https://via.placeholder.com/16/EFDBB6/FFFFFF/?text=%20) `#EFDBB6`
+- ![](https://via.placeholder.com/16/FCF3E4/FFFFFF/?text=%20) `#FCF3E4`
