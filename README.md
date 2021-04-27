@@ -27,6 +27,7 @@
 ### HTML
 
 - [closswift](https://github.com/evdwarf/closswift) A simple Swift utility for conditionally joining classNames together
+- [tailwind-swift](https://github.com/evdwarf/tailwind-swift/tree/main/Sources/TailwindSwift)
 
 ## FAV
 
